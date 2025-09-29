@@ -34,7 +34,3 @@ This project analyzes the **Superstore E-Commerce dataset** using Python, Pandas
 - **Pandas** – Data analysis & manipulation  
 - **Matplotlib** – Visualizations  
 - **Seaborn** – Enhanced and aesthetic plots  
-
----
-
-## 📂 Project Structure  
